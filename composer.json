@@ -1,10 +1,10 @@
 {
-    "name": "webgriffe/theme-frontend-bootstrap",
+    "name": "eskruolis/theme-bootstrap",
     "description": "N/A",
     "require": {
         "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.9",
         "magento/framework": "*",
-        "webgriffe/module-bootstrap-menu": "^1.0"
+        "eskruolis/theme-bootstrap": "^1.0"
     },
     "type": "magento2-theme",
     "version": "1.0.0",
